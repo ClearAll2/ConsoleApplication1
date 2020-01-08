@@ -10,6 +10,7 @@ int main()
     int a = 0;
     int b = 1;
     int c = a + b;
+	cout << "c = " << c << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
